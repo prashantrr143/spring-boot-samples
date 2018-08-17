@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "microservice.file.upload.temp.location",
+  "type": "java.lang.String",
+  "description": "Defines the location for the saving the files uploaded by the application"
+}]}
